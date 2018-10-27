@@ -49,7 +49,7 @@
 **Auszahlungen**
 
 - Wie viel kann ich mit Loots verdienen?
-- Gibt es Limits?
+- [Gibt es Limits?](payouts/limits)
 - [Wie werde ich bezahlt?](payouts/how-payout-works)
 - [Wie verifiziere ich meinen PayPal Account?](payouts/verification)
 - [Ich habe keinen PayPal Account](payouts/no-paypal)
