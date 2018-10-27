@@ -50,7 +50,7 @@
 
 - Wie viel kann ich mit Loots verdienen?
 - Gibt es Limits?
-- Wie werde ich bezahlt?
+- [Wie werde ich bezahlt?](payouts/how-payout-works)
 - [Wie verifiziere ich meinen PayPal Account?](payouts/verification)
 - [Ich habe keinen PayPal Account](payouts/no-paypal)
 - [Wie ändere ich meine PayPal Adresse?](payouts/change-paypal)
