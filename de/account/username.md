@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie kann ich meinen Benutzernamen ändern?
+
 # Wie kann ich meinen Benutzernamen ändern?
 
 Du kannst derzeit noch nicht den Benutzernamen ändern den du für den Login auf Loots benutzt, du kannst aber deine
