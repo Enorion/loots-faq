@@ -44,7 +44,7 @@
 - [Funktioniert Loots mit mehreren Plattformen?](setup/streaming-networks)
 - [Wie funktioniert der Wortfilter?](setup/word-filter)
 - [Wie kann ich eine spezielle Kampagne vermeiden?](setup/campaign-selection)
-- Wie setze ich Sponsored Tips mit Xbox One Broadcast auf?
+- [Wie setze ich Sponsored Tips mit Xbox One Broadcast auf?](setup/xbox)
 
 **Auszahlungen**
 
