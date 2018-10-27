@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Was kann ich tun wenn meine Zuschauer keine Tips senden können?
+
 # Was kann ich tun wenn meine Zuschauer keine Tips senden können?
 
 Wenn du online bist und gerade streamst, sollten dir deine Zuschauer auch sponsored Tips senden können.
