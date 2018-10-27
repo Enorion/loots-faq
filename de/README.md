@@ -48,7 +48,7 @@
 
 **Auszahlungen**
 
-- Wie viel kann ich mit Loots verdienen?
+- [Wie viel kann ich mit Loots verdienen?](payouts/pricing)
 - [Gibt es Limits?](payouts/limits)
 - [Wie werde ich bezahlt?](payouts/how-payout-works)
 - [Wie verifiziere ich meinen PayPal Account?](payouts/verification)
