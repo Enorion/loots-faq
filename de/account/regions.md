@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Welche Regionen können Loots beitreten und es nutzen?
+
 # Welche Regionen können Loots beitreten und es nutzen?
 
 Wir arbeiten stetig daran zu expandieren und mehr Regionen und Menschen zu ermöglichen Loots zu benutzen.

@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie oft kann ein Zuschauer mir Sponsored Tips senden?
+
 # Wie oft kann ein Zuschauer mir Sponsored Tips senden?
 
 Normalerweise gibt es einen 15 minütigen "Cooldown" nachdem ein Zuschauer dir einen Sponsored Tip gesendet hat.

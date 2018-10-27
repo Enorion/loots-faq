@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Ich möchte Loots nicht mehr benutzen, wie beende ich meine Mitgliedschaft?
+
 # Ich möchte Loots nicht mehr benutzen, wie beende ich meine Mitgliedschaft?
 
 Es tut uns leid wenn du Loots nicht mehr benutzen möchtest. Wir würden gerne deine Gründe hören warum du uns verlassen

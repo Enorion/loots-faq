@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Kann ich mehrere Benutzer mit Loots verbinden?
+
 # Kann ich mehrere Benutzernamen mit Loots verbinden?
 
 Für jedes Stream Netzwerk kann man zwei Accounts verbinden.

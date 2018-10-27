@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Kann ich Loots in Verbindung mit mehreren Streaming Netzwerken benutzen?
+
 # Kann ich Loots in Verbindung mit mehreren Streaming Netzwerken benutzen?
 
 Ja! Loots funktioniert mit Mixer (ehemals Beam), Twitch, Smashcast (ehemals Hitbox) und YouTube Gaming.

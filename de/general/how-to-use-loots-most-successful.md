@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie benutze ich Loots am besten?
+
 # Wie benutze ich Loots am besten?
 
 **Hier sind ein paar Dinge die wir empfehlen um deine Loots Erfahrung zu verbessern**

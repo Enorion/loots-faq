@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Jemand benutzt Loots um mich zu beleidigen, was kann ich tun?
+
 # Jemand benutzt Loots um mich zu beleidigen, was kann ich tun?
 
 Loots hat ein paar Features um gegen Beleidigung und dergleichen vorzugehen:

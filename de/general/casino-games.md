@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Ich spiele Casino Spiele auf meinem Channel. Kann ich Loots benutzen?
+
 # Ich spiele Casino Spiele auf meinem Channel. Kann ich Loots benutzen?
 
 Um unsere Benutzer mit den besten Sponsoren versorgen zu können und sicherstellen zu können, dass wir immer

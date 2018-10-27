@@ -1,4 +1,6 @@
-# Was wenn ich eine Kampagne nicht unterstützen möchte, aber weiterhin Loots nutzen möchte.
+[Loots FAQ](../../) > [Deutsch](../) > Was wenn ich eine Kampagne nicht unterstützen möchte, aber weiterhin Loots nutzen möchte?
+
+# Was wenn ich eine Kampagne nicht unterstützen möchte, aber weiterhin Loots nutzen möchte?
 
 Derzeit gibt es leider keinen Weg zu wählen welche Kampagnen man unterstützen möchte und welche nicht.
 Loots sieht sich jedoch dazu verpflichtet sicherzustellen, dass unsere Sponsoren und Advertiser respektierte

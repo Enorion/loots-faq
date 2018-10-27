@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie bekomme ich einen Invite Code?
+
 # Wie bekomme ich einen Invite Code?
 
 Um einen Invite Code zu bekommen, logge dich in deinen Loots Account ein und tritt der 

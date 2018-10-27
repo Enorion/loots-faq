@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie benutze ich Loots? 
+
 # Wie benutze ich Loots?
 
 Dieses [Video (Englisch)](https://vimeo.com/276879130/a1c3c66363) zeigt dir wie du Loots aufsetzt und aktivierst. Viel Spaß! 

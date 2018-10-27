@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie funktioniert der Wortfilter?
+
 # Wie funktioniert der Wortfilter?
 
 Wir benutzen anspruchsvolle Wortfilter bei Loots. Darauf aufbauend kannst du einfach deinen eigenen Wortfilter

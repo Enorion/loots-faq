@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Was sind Sponsored Tips?
+
 # Was sind Sponsored Tips?
 
 Sponsored Tips sind Spenden die mit Werbung in deinem Stream erscheinen. Jeder Sponsored Tip enthält eine Nachricht

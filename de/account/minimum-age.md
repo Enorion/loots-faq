@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Was ist das Mindestalter um Loots zu benutzen?
+
 # Was ist das Mindestalter um Loots zu benutzen?
 
 Du musst mindestens 13 Jahre alt sein um Loots benutzen zu können. Benutzer unter dem Alter von 18 Jahren müssen

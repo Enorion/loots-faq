@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Ist Loots nur für Twitch Partner?
+
 # Ist Loots nur für Twitch Partner?
 
 Nein ist es nicht.
