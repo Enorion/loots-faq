@@ -4,7 +4,7 @@
 
 **Generelles**
 
-- [Was sind Sponsored Tips?](general/what-are-sponsored-tips.)
+- [Was sind Sponsored Tips?](general/what-are-sponsored-tips)
 - [Wer kann Sponsored Tips benutzen?](general/who-can-use-sponsored-tips)
 - [Wie kann ich Loots am Besten verwenden?](general/how-to-use-loots-most-successful)
 - [Ist Loots nur für Twitch Partner?](general/twitch-partners)
