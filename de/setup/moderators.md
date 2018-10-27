@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Können meine Moderatoren übernehmen und Loots für mich handhaben?
+
 # Können meine Moderatoren übernehmen und Loots für mich handhaben?
 
 Wir würden dieses Feature gerne in Zukunft umsetzen, jedoch ist Loots nicht darauf ausgelegt mit einem Freund oder Moderator
