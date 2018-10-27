@@ -1,3 +1,5 @@
+[Loots FAQ](../) > Deutsch
+
 # Loots FAQ in Deutsch
 
 **Generelles**
