@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Welche persönlichen Details muss ich preisgeben?
+
 # Welche persönlichen Details muss ich preisgeben?
 
 Wir brauchen deine persönlichen Details für unsere Buchhaltung und Dokumentation. Diese Informationen werden mit keinem geteilt.
