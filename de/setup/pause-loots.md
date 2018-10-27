@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Kann ich Loots pausieren?
+
 # Kann ich Loots pausieren?
 
 Natürlich kannst du das!
