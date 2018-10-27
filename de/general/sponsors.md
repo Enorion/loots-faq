@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Mit welchen Sponsoren arbeitet Loots zusammen?
+
 # Mit welchen Sponsoren arbeitet Loots zusammen?
 
 Wir arbeiten mit Sponsoren aus aller Welt zusammen. Alles von kleinen Indie Entwicklern bis zu namenhaften AAA Publishern
