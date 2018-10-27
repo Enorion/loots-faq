@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Wie viel Platz muss ich dem Loots Overlay in meinem Stream geben?
+
 # Wie viel Platz muss ich dem Loots Overlay in meinem Stream geben?
 
 Das Loots Banner benutzt 100% Weite und 100% Höhe in deinem Stream, es wird aber nur auf einem Teil davon angezeigt.
@@ -11,4 +13,4 @@ Die eigentlichen Größen der Banner sind wie folgt:
 - für eine Screengröße von 1280x720 (720p) ist das Overlay Banner 528x224
 Diese Größen sind jedoch nicht relevant für die Overlay Einstellungen.
 
-*Vergiss bitte nicht deine Overlay Einstellungen auf 100% Höhe und 100% Weite zu stellen.
+*Vergiss bitte nicht deine Overlay Einstellungen auf 100% Höhe und 100% Weite zu stellen.*
