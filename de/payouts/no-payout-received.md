@@ -1,4 +1,6 @@
-# Ich wurde nicht bezahlt, wen kann ich kontaktieren?
+[Loots FAQ](../../) > [Deutsch](../) > Ich wurde nicht ausgezahlt, wen kann ich kontaktieren?
+
+# Ich wurde nicht ausgezahlt, wen kann ich kontaktieren?
 
 Im seltenen Fall, dass es Probleme mit deiner Auszahlung gibt, bitte folge diesen Schritten:
 
