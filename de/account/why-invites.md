@@ -1,3 +1,5 @@
+[Loots FAQ](../../) > [Deutsch](../) > Warum brauche ich einen Invite Code?
+
 # Warum brauche ich einen Invite Code?
 
 Wir sind eine relativ neue Plattform die mit der hohen Nachfrage zurecht kommen muss.
