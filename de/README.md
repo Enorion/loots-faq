@@ -4,7 +4,7 @@
 
 **Generelles**
 
-- [Was sind Sponsored Tips?](general/what-are-sponsored-tips.)
+- [Was sind Sponsored Tips?](general/what-are-sponsored-tips)
 - [Wer kann Sponsored Tips benutzen?](general/who-can-use-sponsored-tips)
 - [Wie kann ich Loots am Besten verwenden?](general/how-to-use-loots-most-successful)
 - [Ist Loots nur für Twitch Partner?](general/twitch-partners)
@@ -35,7 +35,7 @@
 
 - [Setup](setup/setup)
 - [Was kann ich tun wenn meine Zuschauer mir keine Tips senden können?](setup/tipping-not-possible)
-- [Kann ich mehrere Accounts und Tip-Jars haben?](setup/multiple-tip-jars)
+- [Kann ich mehrere Accounts und Messaging Pages haben?](setup/multiple-tip-jars)
 - [Darf ich die Größe des Overlays verändern?](setup/changing-overlay-size)
 - [Kann ich mehrere Benutzer verbinden?](setup/multiple-usernames)
 - [Kann ich Loots pausieren?](setup/pause-loots)

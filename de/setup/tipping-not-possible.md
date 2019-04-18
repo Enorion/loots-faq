@@ -5,7 +5,7 @@
 Wenn du online bist und gerade streamst, sollten dir deine Zuschauer auch sponsored Tips senden können.
 Normalerweise sehen deine Zuschauer folgende Nachrichten wenn etwas nicht klappt:
 
-- "[Streamer] is taking a tipping break" - Das bedeutet dein Tip-Jar ist derzeit pausiert oder im "drain"
+- "[Streamer] is taking a tipping break" - Das bedeutet dein Messaging Page ist derzeit pausiert oder im "drain"
 - "Wow! A temporary tipping limit is reached for [Streamer]" - Das bedeutet dein tipping Limit ist erreicht und das Tippen ist derzeit pausiert.
 - "A connection error occured. [Streamer] has to reconfigure the browser source to activate tipping." - Du musst bestätigen, dass dein Overlay richtig eingestellt ist. Normalerweise reicht es den Overlay Link neu in die Browserresource einzufügen.
 - "Oops, [Streamer] needs to do some more configuration to activate tipping" - Bitte lese den Setup Guide
