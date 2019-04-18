@@ -35,7 +35,7 @@
 
 - [Setup](setup/setup)
 - [Was kann ich tun wenn meine Zuschauer mir keine Tips senden können?](setup/tipping-not-possible)
-- [Kann ich mehrere Accounts und Tip-Jars haben?](setup/multiple-tip-jars)
+- [Kann ich mehrere Accounts und Messaging Pages haben?](setup/multiple-tip-jars)
 - [Darf ich die Größe des Overlays verändern?](setup/changing-overlay-size)
 - [Kann ich mehrere Benutzer verbinden?](setup/multiple-usernames)
 - [Kann ich Loots pausieren?](setup/pause-loots)

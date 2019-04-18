@@ -6,5 +6,5 @@ Derzeit gibt es leider keinen Weg zu wählen welche Kampagnen man unterstützen 
 Loots sieht sich jedoch dazu verpflichtet sicherzustellen, dass unsere Sponsoren und Advertiser respektierte
 und vertrauenswürdige Firmen sind. Wir verstehen, dass was in deinem Stream gezeigt wird auf dich reflektiert wird.
 
-Du kannst außerdem dein Tip-Jar pausieren wenn du eine Kampagne die derzeit aktiv ist vermeiden möchtest. Dies kannst
+Du kannst außerdem deine Messaging Page pausieren wenn du eine Kampagne die derzeit aktiv ist vermeiden möchtest. Dies kannst
 du [hier](https://loots.com/en/account/tips) machen.
