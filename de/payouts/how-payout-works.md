@@ -7,17 +7,17 @@ PayPal Account statt. Bitte bedenke, dass PayPal und/oder deine Bank eventuell K
 
 **Payday**
 
-Der "Payday" (Auszahlungstag) ist immer der 20. Tag des nächsten Monats. In Fällen wo dieser auf ein Wochenende oder einen
+Der "Payday" (Auszahlungstag) ist immer 40 Tage nach Ende des Monats in welchem du das Auszahlungsminimum erreicht hast. In Fällen wo dieser auf ein Wochenende oder einen
 nationalen Feiertag (ausgehend von Berlin, Deutschland) ist, werden die Auszahlungen am nächsten Arbeitstag getätigt.
 Alle Auszahlungen werden innerhalb von 3 Werktagen nach dem Payday bearbeitet. Die Auszahlungen von Dezember finden
-am 20. Januar statt. Wenn dies ein Freitag ist, so endet der Payday am Dienstag den 24. Januar.
+am 10. Februar statt. Wenn dies ein Freitag ist, so endet der Payday am Dienstag den 14. Februar.
 Dein erster Payday findet frühestens im Monat nachdem du deine E-Mail Adresse bestätigt hast statt.
-Wenn du also zum Beispiel am 2. Mai deine E-Mail bestätigst, ist dein erster Payday am 20. Juni. In der Zwischenzeit befinden
+Wenn du also zum Beispiel am 2. Mai deine E-Mail bestätigst, ist dein erster Payday am 10. Juni. In der Zwischenzeit befinden
 sich dein "Guthaben" in deinem Account.
 
 **Minimale Auszahlung**
 
-Der minimale Betrag für Auszahlungen ist $5.00USD. Wenn deine Einnahmen unter dieser Grenze liegen, dann bleiben
+Der minimale Betrag für Auszahlungen ist $10.00USD. Wenn deine Einnahmen unter dieser Grenze liegen, dann bleiben
 diese in deinem Account bis du das Minimum überschritten hast.
 
 **PayPal Verifizieren**
