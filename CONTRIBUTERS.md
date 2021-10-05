@@ -2,5 +2,5 @@
 
 - Enorion
    - Discord: Chris \| Enorion#1337
-   - Loots.com Helper
+   - Loots.com Mod
    - Translator for German
